@@ -3,8 +3,8 @@ b = 1
 c = b
 
 
-while c < 50:
-    print(c)
+while a < 50:
+    print(a)
     res = a + b
     a, b = b, c
     c = a + b
